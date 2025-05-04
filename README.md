@@ -1,7 +1,3 @@
-# LuminaFocus
-
-// ... existing code ...
-
 # Bomb HTML Script
 
 This is a simple HTML file containing JavaScript commands that perform basic browser operations.
