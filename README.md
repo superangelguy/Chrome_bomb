@@ -1,7 +1,3 @@
-# LuminaFocus
-
-// ... existing code ...
-
 # 💣 Bomb HTML Script 💣
 
 > Boom! 💥 A simple but explosive HTML file that'll make your browser go wild! 
